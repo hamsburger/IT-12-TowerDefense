@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BlobTowerDefence">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BlobTowerDefence.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
